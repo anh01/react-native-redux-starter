@@ -1,5 +1,6 @@
 import { Navigation } from 'react-native-navigation';
-import Home from './components/Home';
+
+import Home from './views/Home';
 
 const { registerComponent } = Navigation;
 
