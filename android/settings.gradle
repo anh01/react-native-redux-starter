@@ -1,4 +1,4 @@
-rootProject.name = 'react_native_navigation_bootstrap'
+rootProject.name = 'RNRedux'
 
 include ':app'
 include ':react-native-navigation'
