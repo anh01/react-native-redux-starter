@@ -2,8 +2,8 @@ import { StyleSheet } from 'react-native';
 
 const styles = StyleSheet.create({
   wrapper: {
-    width: 60,
-    height: 60,
+    height: 180,
+    margin: 10,
     padding: 10,
     borderWidth: 1,
     borderColor: '#34495e'

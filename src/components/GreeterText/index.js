@@ -1,4 +1,5 @@
 import React from 'react';
+import { Text } from 'react-native';
 import PropTypes from 'prop-types';
 
 import styles from './styles';
@@ -8,8 +9,8 @@ import styles from './styles';
  *
  * @returns {jsx}
  */
-const GreeterText = ({ text }) => (
-  <Text style={ styles.greetingText }> { text } </Text>
+const GreeterText = ({ children }) => (
+  <Text style={ styles.greetingText }> { children } </Text>
 );
 
 GreeterText.propTypes = {
