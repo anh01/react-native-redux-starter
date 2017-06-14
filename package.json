@@ -12,13 +12,14 @@
     "react-native-navigation": "^1.1.x",
     "react-redux": "^5.0.5",
     "redux": "^3.6.0",
+    "redux-persist": "^4.8.0",
     "redux-thunk": "^2.2.0"
   },
   "devDependencies": {
-    "redux-logger": "^3.0.6",
     "babel-eslint": "^7.2.3",
     "eslint": "^4.0.0",
-    "eslint-plugin-react": "^7.1.0"
+    "eslint-plugin-react": "^7.1.0",
+    "redux-logger": "^3.0.6"
   },
   "rnpm": {
     "assets": [
